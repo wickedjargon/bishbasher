@@ -1,0 +1,3 @@
+- As your basic functionality matures, you may want to implement features like threefold repetition detection and move undo stacks for gameplay.
+- While your current focus is on board setup and state representation, consider how you will generate legal moves. Precompute lookup tables to cache move data for different piece types in different positions.
+- Plan how promotions will be handled, possibly requiring a mechanism to choose the promotion piece type.
